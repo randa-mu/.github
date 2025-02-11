@@ -1,18 +1,15 @@
 # Welcome to Randamu 👋
 
-Welcome to **Randamu**, the quintessential hub for threshold cryptography,
-brought to you by a pioneering company dedicated to advancing the technology
-behind secure and distributed cryptographic operations.
+Welcome to **Randamu**, a hub for all things threshold cryptography,
+brought to you by the stewards of the drand project.
 At Randamu, we bridge the gap between academic research and real-world applications,
-ensuring that the bleeding edge of cryptographic safety is accessible, open source, 
+ensuring that the bleeding edge of cryptography is accessible, open source, 
 and supported by professional expertise.
 
 ### About Us
 
-Randamu is leading the charge in the practical implementation and innovation of threshold cryptography.
-As a company, our mission expands beyond mere development. 
-We aim to educate, support, and collaborate with both the open-source community and enterprises. 
-Through grants, partnerships, and community engagement, Randamu is at the forefront of making complex cryptographic tools both accessible and usable for everyone.
+Randamu is leading the charge in the practical implementation of threshold cryptography.  
+As a company, our mission is to build, educate, support, and collaborate with both the open-source community and enterprises to make a fairer and more trustworthy internet. 
 
 ### Our Offerings
 
@@ -42,4 +39,4 @@ Get in touch via email at info@randa.mu, or through our social media to kickstar
 
 ---
 
-**Randamu**: Empowering secure collaborations, one secret key at a time.
+**Randamu**: Rolling the dice for a fairer web 🎲
